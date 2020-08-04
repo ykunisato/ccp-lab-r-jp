@@ -1,5 +1,5 @@
 FROM ykunisato/ccp-lab-r
-MAINTAINER "Yoshihiko Kunisato" ykunisato@psy.senshu-u.ac.jp
+LABEL maintainer="Yoshihiko Kunisato <kunisato@psy.senshu-u.ac.jp>"
 
 # Changing environment to Japanese
 ENV LANG ja_JP.UTF-8
